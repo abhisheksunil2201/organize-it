@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "PATH TO organize.bat",0,True
